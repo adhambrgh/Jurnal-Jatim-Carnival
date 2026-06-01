@@ -1,16 +1,67 @@
-# login_page
+# Jurnal Jatim Carnival 🎭
 
-A new Flutter project.
+Aplikasi mobile berbasis Flutter yang digunakan untuk mencari, membagikan, dan menyimpan informasi event atau carnival di Jawa Timur.
 
-## Getting Started
+## 📱 Fitur Utama
 
-This project is a starting point for a Flutter application.
+* Login & Registrasi pengguna
+* Login Admin
+* Posting event oleh user
+* Like & simpan postingan
+* Event terbaru dari admin
+* Profil pengguna
+* Upload gambar & video event
+* Firebase Authentication
+* Cloud Firestore Database
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Teknologi yang Digunakan
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+* Flutter (Dart)
+* Firebase Authentication
+* Cloud Firestore
+* Firebase Storage
+* GetX (State Management)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📂 Struktur Database
+
+Project ini menggunakan Firebase Firestore dengan beberapa collection utama:
+
+* `users`
+* `posts`
+* `event_terbaru`
+* `admin_accounts`
+
+## 🚀 Cara Menjalankan Project
+
+1. Clone repository
+
+```bash
+git clone https://github.com/adhambrgh/Jurnal-Jatim-Carnival.git
+```
+
+2. Masuk ke folder project
+
+```bash
+cd Jurnal-Jatim-Carnival
+```
+
+3. Install dependencies
+
+```bash
+flutter pub get
+```
+
+4. Jalankan aplikasi
+
+```bash
+flutter run
+```
+
+## 👨‍💻 Developer
+
+**Adham Baarigh**
+Project Backend Flutter - SMK
+
+---
+
+Jurnal Jatim Carnival © 2026
