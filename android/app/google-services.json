@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "181946388516",
+    "project_id": "jurnaljatimcarnival",
+    "storage_bucket": "jurnaljatimcarnival.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181946388516:android:3ba4befabc6b29440d08b1",
+        "android_client_info": {
+          "package_name": "com.jurnal.jatimcarnival"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181946388516-bpmh5tfjktfmpf0540tlmrtea0ru55go.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jurnal.jatimcarnival",
+            "certificate_hash": "99e7045a5528fb6ed956d71d160dfc5e2416ec38"
+          }
+        },
+        {
+          "client_id": "181946388516-j0li50l4anpbatatt3999076avc21l2d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlmEFqnwWShHEjdCQcR6GkkahAFG0tM_w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181946388516-j0li50l4anpbatatt3999076avc21l2d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "181946388516-3a5onncemquvv5fvatn1mt01c7c15f6a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.loginPage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
