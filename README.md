@@ -1,4 +1,4 @@
-# Jurnal Jatim Carnival 🎭
+# Jurnal Jatim Carnival 
 
 Aplikasi mobile berbasis Flutter yang digunakan untuk mencari, membagikan, dan menyimpan informasi event atau carnival di Jawa Timur.
 
